@@ -1,5 +1,5 @@
 # test
-<p align=right>```diff
+<p>```diff
 +123444
 -1231241241
 #12313124
